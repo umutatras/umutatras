@@ -7,7 +7,7 @@
 <body>
 
 <h1 style="text-align: center;">Merhaba 👋, ben Umut ATRAŞ</h1>
-<h3 style="text-align: center;">Merhaba, yazılım geliştiricisi ve bilgisayar mühendisiyim. Yıllar içinde web geliştirme konusunda uzmanlaştım. Çalışma ve eğitim hayatım boyunca C#, Entity Framework Core, Repository Design Pattern, Identity, N Tier Architecture, Mvc, Web Api, Ajax, Code First, DB First, SQL, HTML, CSS gibi teknolojilerini kullandım. Projelerimi oluştururken çözüm sürecinde bir yaklaşım benimsiyorum.</h3>
+<h3 style="text-align: center;">Merhaba, yazılım geliştiricisi ve bilgisayar mühendisiyim. Yıllar içinde web geliştirme konusunda uzmanlaştım. Çalışma ve eğitim hayatım boyunca C#, Entity Framework Core, Design Pattern, Identity, N Tier Architecture, Mvc, Web Api, Ajax, Code First, DB First, SQL, HTML, CSS gibi teknolojilerini kullandım ve kullanmaya devam ediyorum. Projelerimi oluştururken çözüm sürecinde bir yaklaşım benimsiyorum.</h3>
 
 <p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=umutatras&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClemeleri&color=0e75b6&style=flat" alt="umutatras" /> </p>
 
