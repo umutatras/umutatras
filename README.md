@@ -33,9 +33,6 @@
 
 <div style="clear:both;"></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutatras&layout=compact&hide=html,css" alt="umutatras" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umutatras&show_icons=true&locale=tr" alt="umutatras" /></p>
 
 </body>
 </html>
