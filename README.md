@@ -7,14 +7,18 @@
 <body>
 
 <h1 style="text-align: center;">Merhaba 👋, ben Umut ATRAŞ</h1>
-<h3 style="text-align: center;">Merhaba, yazılım geliştirici ve bilgisayar mühendisiyim. Eğitimime bilgisayar programcılığı ile başladım ve dikey geçiş sınavını kazanmanın ardından bilgisayar mühendisliği dalında lisans yaptım. Yıllar içinde web geliştirme konusunda beceri geliştirdim. Çalışma ve eğitim hayatım boyunca bir çok proje üzerinde çalıştım ve bu projeleri GitHub üzerinde paylaştım. Projelerimde C#, Entity Framework Core,Design Pattern, Identity, Clean Arc.,Onion Arc., N Tier Architecture, MVC, Web API, Ajax, Jquery, CQRS, Code First, DB First, SQL, HTML, FluentApi, Fluent Validation, AutoMapper, CSS gibi teknolojilerini kullandım. Projelerimi oluştururken çözüm odaklı bir yaklaşım benimsedim. GitHub hesabımı ziyaret edebilirsiniz.</h3>
+<h3 style="text-align: center;">.NET ekosisteminde 2+ yıllık deneyime sahip bir Software Developer olarak, kurumsal ölçekte backend
+projelerinin geliştirilmesi, performans optimizasyonu ve güvenlik iyileştirmelerinde aktif rol aldım. C#,
+Entity Framework Core, Mediatr, CQRS, Clean Architecture, Onion Architecture, Identity, JWT, N-Tier
+Architecture, MVC, Web API, LINQ, MSSQL, MySQL, Code First, DB First, HTML, CSS, jQuery, Ajax, Fluent
+API, Data Annotations, Hangfire, Fluent Validation, AutoMapper, SOAP/SOAP UI, TFS, JIRA gibi modern
+teknolojiler ve araçlar üzerinde uzmanlık sahibiyim.</h3>
 
 <p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=umutatras&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClemeleri&color=0e75b6&style=flat" alt="umutatras" /> </p>
 
 <h3 style="text-align: left;">Benimle iletişime geçin:</h3>
 <p style="text-align: left;">
     <a href="https://linkedin.com/in/umut-atras" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://instagram.com/atrasumut" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 style="text-align: left;">Diller ve Araçlar:</h3>
