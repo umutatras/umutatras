@@ -15,7 +15,7 @@
 
 - 🔭 .NET ekosisteminde aktif olarak projeler geliştiriyorum  
 - 💡 Backend, performans optimizasyonu ve sistem tasarımı odaklıyım  
-- 🧠 Clean Architecture, CQRS ve scalable sistemler üzerine çalışıyorum  
+- 🧠 N-Tier Architecture,Onion Architecture,Clean Architecture üzerine çalışıyorum.
 - 📍 Hatay / İskenderun  
 
 ---
