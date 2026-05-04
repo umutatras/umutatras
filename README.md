@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Umut Atraş</h1>
+<h1 align="center">Merhaba 👋, ben Umut</h1>
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
@@ -51,11 +51,4 @@
   </a>
 </p>
 
----
 
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutatras&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutatras&layout=compact&theme=tokyonight" />
-</p>
