@@ -5,9 +5,6 @@
   Kurumsal ölçekte backend sistemler geliştiren, performans ve güvenlik odaklı çalışan bir yazılım geliştiriciyim.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umutatras&label=Profil%20Görüntülenme&color=0e75b6&style=flat" />
-</p>
 
 ---
 
